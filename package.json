@@ -1,0 +1,9 @@
+{
+  "name": "saldo-finance-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Saldo Finance — web app responsivo, sem dependências de execução",
+  "scripts": {
+    "serve": "python3 -m http.server 5173"
+  }
+}
